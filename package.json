@@ -2,9 +2,7 @@
   "name": "node",
   "version": "1.0.0",
   "main": "script.js",
-  "scripts": {
-    "start": "server.js"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,6 +15,5 @@
     "knex": "^0.14.2",
     "pg": "^7.4.0"
   },
-  "devDependencies": {},
   "description": ""
 }
